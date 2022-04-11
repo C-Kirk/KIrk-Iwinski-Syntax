@@ -4,3 +4,5 @@
 
 ##About
 This is my first projekt on GitHub. Have Fun!
+
+TeamWork ist super wichtig!
